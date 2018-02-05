@@ -1,7 +1,7 @@
 # Mandelbrot
 Basic Mandelbrot in C++ with SFML
 
-## Dependencis
+## Dependencies
 
 This project needs SFML 2 to compile
 
